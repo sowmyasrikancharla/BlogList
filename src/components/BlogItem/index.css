@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.item-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: space-between;
+  width: 100%;
+}
+.head {
+  color: #12022f;
+  font-size: 22px;
+  text-align: left;
+  margin-left: 0px;
+}
+.desc {
+  color: #9aa5b1;
+  font-size: 18px;
+}
+.line {
+  color: #9aa5b1;
+}
+.width {
+  width: 100%;
+  list-style-type: none;
+}
